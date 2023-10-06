@@ -1,1 +1,0 @@
-# nodejs-psychologist-rest-apis
